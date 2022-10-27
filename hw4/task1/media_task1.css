@@ -1,0 +1,22 @@
+@media screen and (min-width: 0px) and (max-width: 900px) {
+    .main{
+        height: 740px;
+    }
+    .block_a{
+        height: 20%;
+    }
+    .block_b{
+        margin-bottom: 15px;
+        width: auto;
+        margin-right: 15px;
+        height: 380px;
+    }
+    .block_c{
+        width: auto;
+        margin-right: 15px;
+        height: 150px;
+    }
+    .main_block{
+        display: block;
+    }
+}
